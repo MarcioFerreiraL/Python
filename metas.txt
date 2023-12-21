@@ -1,0 +1,83 @@
+Aplicação de Lista de Tarefas (To-Do List): Crie uma aplicação simples para adicionar, atualizar e excluir tarefas de uma lista, utilizando um banco de dados para armazenar as informações.
+
+Web Scraper: Desenvolva um programa que faça scraping de dados de um site. Por exemplo, extraia informações de previsão do tempo, notícias ou preços de produtos de um site e organize esses dados de maneira útil.
+
+Criptografia e Decifragem: Implemente algoritmos de criptografia simples, como Cifra de César, para criptografar e decifrar mensagens. Explore diferentes métodos de criptografia e sua aplicação em Python.
+
+Aplicação de Chatbot: Construa um chatbot simples usando bibliotecas como ChatterBot ou integrando com APIs de plataformas como o Dialogflow da Google para criar um assistente virtual que responda a perguntas ou forneça informações.
+
+Jogo da Forca ou Jogo da Velha: Implemente um jogo clássico como o Jogo da Forca ou o Jogo da Velha utilizando conceitos de lógica e interface de linha de comando (CLI).
+
+Aplicação de Análise de Dados: Utilize bibliotecas como Pandas e Matplotlib para realizar análise exploratória de dados. Você pode trabalhar com conjuntos de dados públicos e criar gráficos para visualizar informações relevantes.
+
+Aplicação de Blog Simples: Desenvolva um blog básico usando um framework web como Flask ou Django. Permita aos usuários criar, visualizar e comentar em postagens.
+
+Sistema de Gerenciamento de Biblioteca: Crie um sistema para gerenciar empréstimos de livros, cadastro de usuários e livros disponíveis em uma biblioteca. Use conceitos de banco de dados para armazenar informações.
+
+Gerador de Senhas Aleatórias: Faça um programa que gere senhas aleatórias com diferentes níveis de complexidade (números, letras, caracteres especiais) e forneça opções de personalização.
+
+Aplicação de Reconhecimento Facial: Explore bibliotecas como OpenCV e dlib para criar um programa que detecte rostos em imagens ou vídeos.
+
+Mad Libs:
+
+Um jogo de palavras onde os jogadores inserem palavras aleatórias em espaços em branco em uma história predefinida para criar resultados engraçados e inesperados.
+Forca:
+
+Um jogo onde um jogador tenta adivinhar uma palavra ou frase correta por meio de tentativas de adivinhação de letras, com um limite de erros antes que um boneco seja desenhado por completo (indicando a perda).
+Gerador de senhas:
+
+Uma aplicação que gera senhas aleatórias com diferentes níveis de complexidade (números, letras, caracteres especiais) de acordo com as preferências do usuário.
+Codificador/decodificador de QR code:
+
+Um programa que codifica informações em um QR code (código de barras em 2D) e também decodifica informações de um QR code para texto legível.
+Jogo da velha:
+
+Um jogo de estratégia para dois jogadores, onde cada um marca uma grade 3x3 com X ou O para tentar obter três de suas marcas em linha reta.
+Jogo da velha com AI:
+
+Uma versão do Jogo da Velha em que um dos jogadores é uma inteligência artificial programada para jogar contra o humano.
+Pesquisa binária:
+
+Um algoritmo de busca que divide repetidamente a lista de elementos pela metade e compara o elemento do meio com a chave de busca, reduzindo o espaço de busca pela metade.
+Campo minado:
+
+Um jogo em que o jogador revela células de uma grade sem detonar minas ocultas. O objetivo é revelar todas as células que não contêm minas.
+Solucionador de Sudoku:
+
+Um programa que resolve tabuleiros de Sudoku, um jogo de lógica em que o objetivo é preencher cada célula com um número de 1 a 9, seguindo regras específicas.
+Manipulação de fotos em Python:
+
+Desenvolvimento de um programa para manipular imagens, aplicando filtros, redimensionando, alterando cores, entre outras operações usando bibliotecas Python, como PIL ou OpenCV.
+Criador de textos com cadeias de Markov:
+
+Um programa que gera textos aleatórios baseados em modelos estatísticos de probabilidade chamados Cadeias de Markov, utilizando palavras ou caracteres de um corpus de texto.
+Pong:
+
+Um dos primeiros jogos de videogame; um jogo de esporte virtual que simula um jogo de pingue-pongue em que os jogadores movem barras para golpear uma bola.
+Jogo da cobrinha:
+
+Um jogo em que o jogador controla uma cobra que cresce à medida que consome alimentos, com o objetivo de evitar colidir com as bordas do jogo ou com seu próprio corpo.
+Ligue-4:
+
+Um jogo de estratégia para dois jogadores onde eles alternam para soltar discos em uma grade vertical, tentando criar uma linha contínua de quatro discos da mesma cor.
+Tetris:
+
+Um jogo de blocos onde os jogadores manipulam peças tetrimino, movendo e girando-as para preencher linhas horizontais sem lacunas.
+Jogo multiplayer online:
+
+Desenvolvimento de um jogo que permite que vários jogadores se conectem e joguem online simultaneamente.
+Programa de web scraping:
+
+Desenvolvimento de um programa que extrai informações de websites, navegando pelas páginas e coletando dados relevantes.
+Renomeador de arquivos em massa:
+
+Uma aplicação para renomear vários arquivos em um diretório de acordo com certos padrões ou critérios específicos.
+Programa de previsão do tempo:
+
+Desenvolvimento de um programa que usa APIs para obter dados meteorológicos e fornecer previsões meteorológicas precisas.
+Programar um bot do Discord com Python e hospedá-lo de graça na nuvem:
+
+Criação de um bot personalizado para o Discord usando Python e a hospedagem gratuita em plataformas na nuvem, como o Heroku.
+Jogo Space Invaders:
+
+Um clássico jogo de arcade onde o jogador controla uma nave espacial e deve eliminar uma frota de alienígenas invasores.
