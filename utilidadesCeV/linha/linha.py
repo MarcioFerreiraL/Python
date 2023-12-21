@@ -32,7 +32,7 @@ def lerArquivo(nome):
         linhas()
         print(a.read())
         b = 0
-        for linha in a:
+        for dado in a:
             dado[b] = dado [b].replace(';', ' - ')
             dado[b] = dado [b].replace('\n', '')
             print(f'{dado[0]:<30}{dado[1]:>3} anos')
@@ -41,12 +41,12 @@ def lerArquivo(nome):
         a.close()
 def cadastrar(arq, nome='desconhecido', idade=0):
     try:
-        a= open(arq, 'at')
+        task = open(arq, 'at')
     except:
         print('Houve algum ERRO na abertura do arquivo!')
     else:
         try:
-            a.write(f'{nome};{idade}\n')
+            task.write(f'{nome};{idade}\n')
         except:
             print(f'Houve algum ERRO na hora de escrever os dados em {arq}')
         else:

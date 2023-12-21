@@ -1,0 +1,6 @@
+[] - Escovar os dentes; 
+[] - Tomar café da manhã;
+[] - Estudar Python; 
+[] - Almoçar;
+[] - Estudar mais ainda; 
+[] - Dormir;
