@@ -1,4 +1,4 @@
-Aplicação de Lista de Tarefas (To-Do List): Crie uma aplicação simples para adicionar, atualizar e excluir tarefas de uma lista, utilizando um banco de dados para armazenar as informações.
+*Aplicação de Lista de Tarefas (To-Do List): Crie uma aplicação simples para adicionar, atualizar e excluir tarefas de uma lista, utilizando um banco de dados para armazenar as informações.*
 
 Web Scraper: Desenvolva um programa que faça scraping de dados de um site. Por exemplo, extraia informações de previsão do tempo, notícias ou preços de produtos de um site e organize esses dados de maneira útil.
 
